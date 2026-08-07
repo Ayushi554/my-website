@@ -1,25 +1,26 @@
 * {
     margin: 20px;
+    background-color:rgba(194, 187, 121, 0.801)
 }
 h1 {
-    color:rgb(180, 6, 6);
+    color:rgb(229, 222, 18);
     text-align: center;
     font-weight: bold;
     font-size: 40px;
     font-style: initial;
-    background-color: rgb(11, 24, 60);
+    background-color: rgb(3, 6, 15);
     position: sticky;
     top: 20px;
 }
 .main-banner {
-    width: 1200px;
-    height: 580px;
-    margin-left: 17%;
+    width: 1150px;
+    height: 600px;
+    margin-left: 19%;
     margin-bottom: 3%;
-    border: 3px solid rgb(3, 3, 3);
+    border: 3px solid rgb(18, 1, 1);
 }
 .shc {
-    background-color: rgba(11, 13, 78, 0.825);
+    background-color: rgba(119, 63, 14, 0.828);
     display: block;
 }
 table,th,td{
@@ -28,26 +29,26 @@ table,th,td{
     font-family: Arial;
 }
 .slc {
-    width: 350px;
+    width: 370px;
     height: 380px;
 }
 video {
     padding: 6px 11px 4px 9px;
-    margin-left: 30px;
+    margin-left: 20%;
      display: inline-block;
 }
 h3  {
-    font-family: Gill Sans;
+    font-family: "Gill Sans", "GillSans", sans-serif;
     font-weight: bold;
     color: rgb(2, 14, 49);
 }
 body {
-    background-image: url(../001-subtle-light-pattern-background-texture.jpg);
-    border: 1px solid rgb(25, 152, 118);
+    background-image: url("C:/Users/hp/Downloads/ayushi/.vscode/image for html/istockphoto-1338128642-612x612.jpg");
+    border: 1px solid rgb(20, 135, 104);
 }
 #bottom {
     font-family: apple-system;
-    color: rgb(8, 16, 56);
+    color: rgb(0, 0, 0);
     margin-left: 2%;
     text-align: left;
 }
